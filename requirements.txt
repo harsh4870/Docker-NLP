@@ -1,0 +1,15 @@
+# 01 sentiment_analysis
+nltk==3.6.5
+
+# 02 named_entity_recognition
+spacy==3.7.2
+
+# 03 text_classification
+scikit-learn==1.3.2
+
+# 04 text_summarization
+bert-extractive-summarizer==0.10.1
+
+# 05 language_translation
+googletrans==4.0.0-rc1
+torch==2.1.2
