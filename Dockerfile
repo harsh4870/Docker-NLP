@@ -1,4 +1,4 @@
-FROM python:3.8-slim
+FROM python:3.12-slim
 
 # Install GCC build dependency
 RUN apt-get update && \
